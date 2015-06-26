@@ -4,6 +4,7 @@
     
 # 修改文档
 * 将本仓库下载到本地
+ 
 `git clone git@github.com:tinyfox266/offer.tips.git` 
 
 * 打开要编辑的文件，如index.md
