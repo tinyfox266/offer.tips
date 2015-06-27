@@ -31,6 +31,7 @@
                     "oga":"http://www.jplayer.org/audio/ogg/TSP-01-Cro_magnon_man.ogg"
           }];
       var cssSelector = {jPlayer: "#jquery_jplayer_1", cssSelectorAncestor: "#jp_container_1"};
+      $.ajaxSettings.async = false;
       jQuery.getJSON("playlist.json", function(data){
             playlist = data; 
               });
