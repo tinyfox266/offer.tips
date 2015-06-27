@@ -25,7 +25,11 @@
         remainingDuration: true,
         toggleDuration: true
       });
-      var playlist;
+      var playlist = [{
+          "title":"Cro Magnon Man",
+                    "mp3":"http://www.jplayer.org/audio/mp3/TSP-01-Cro_magnon_man.mp3",
+                    "oga":"http://www.jplayer.org/audio/ogg/TSP-01-Cro_magnon_man.ogg"
+          }];
       var cssSelector = {jPlayer: "#jquery_jplayer_1", cssSelectorAncestor: "#jp_container_1"};
       jQuery.getJSON("playlist.json", function(data){
             playlist = data; 
