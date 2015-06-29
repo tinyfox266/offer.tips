@@ -1,42 +1,22 @@
 [
     {
         "title":"Magic Waltz(1900)",
-        "free":"true",
-        "mp3":"https://raw.githubusercontent.com/tinyfox266/offer.tips/gh-pages/music/mp3/MagicWaltz(1900).mp3"
+        "oga":"http://kyhcs.ustcsz.edu.cn/~zzp/audio/favor/MagicWaltz(1900).ogg"
 
     }
     ,
     {
         "title":"Main Title(The Godfather)",
-        "free":"true",
-        "mp3":"http://kyhcs.ustcsz.edu.cn/~zzp/audio/favor/MainTitle(TheGodfather).mp3"
+        "oga":"http://kyhcs.ustcsz.edu.cn/~zzp/audio/favor/MainTitle(TheGodfather).ogg"
     }
     ,
     {
         "title":"Concerto No.4 In F Minor, RV297 (Winter) II - Largo",
-        "free":"true",
-        "mp3":"http://kyhcs.ustcsz.edu.cn/~zzp/audio/favor/winter.mp3"
-    }
-    ,
-    {
-        "title":"ogg",
         "oga":"http://kyhcs.ustcsz.edu.cn/~zzp/audio/favor/winter.ogg"
     }
     ,
     {
-        "title":"Main Title(The Godfather)",
-        "free":"true",
-        "mp3":"http://kyhcs.ustcsz.edu.cn/~zzp/audio/favor/MainTitle(TheGodfather).mp3"
-    }
-    ,
-    {
-        "title":"Concerto No.4 In F Minor, RV297 (Winter) II - Largo",
-        "free":"true",
-        "mp3":"http://kyhcs.ustcsz.edu.cn/~zzp/audio/favor/winter.mp3"
-    }
-    ,
-    {
-        "title":"ogg",
-        "oga":"http://kyhcs.ustcsz.edu.cn/~zzp/audio/favor/winter.ogg"
+        "title":"Peaching Rag",
+        "oga":"http://kyhcs.ustcsz.edu.cn/~zzp/audio/favor/MainTitle(TheGodfather).ogg"
     }
 ]
