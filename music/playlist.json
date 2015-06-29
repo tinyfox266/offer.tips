@@ -17,4 +17,9 @@
         "free":"true",
         "mp3":"http://kyhcs.ustcsz.edu.cn/~zzp/audio/favor/winter.mp3"
     }
+    ,
+    {
+        "title":"ogg",
+        "oga":"http://kyhcs.ustcsz.edu.cn/~zpp/audio/favor/winter.ogg"
+    }
 ]
