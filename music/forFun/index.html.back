@@ -12,7 +12,7 @@
           $(this).jPlayer("setMedia", {
             title: "bar bar bar",
             oga: "http://ssg.ustcsz.edu.cn/~zzp/audio/favor/barbarbar.ogg"
-          }).jPlayer("play");
+          });
         },
         cssSelectorAncestor: "#jp_container_1",
         swfPath: "js",
