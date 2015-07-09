@@ -10,6 +10,8 @@
 # 面试准备
 ## 经验介绍
 * [最完整的面试经历](http://chuansong.me/n/290160)
+## 面经
+* [Cracking the Coding Interview 4th Edition](books/cc150.pdf)
 
 # 过期的招聘信息
 
