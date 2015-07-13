@@ -8,6 +8,7 @@
 * [leetcode](test/leetcode.html)
 * [程序员编程艺术](http://blog.csdn.net/v_JULY_v/article/details/6460494)
 * [hihocoder](http://www.hihocoder.com/)
+* [Introduction to Algorithm 3rd Edition](books/intro_algo.pdf)
 
 ----------
  
@@ -18,6 +19,10 @@
 * [Cracking the Coding Interview 4th Edition](books/cc150.pdf)
  
 ----------
+# 一些有用的网站
+* [一亩三分地刷题板](http://www.1point3acres.com/bbs/forum-84-1.html)
+* [v2ex jobs](http://v2ex.com/?tab=jobs)
+--------------
 
 # 一些有用的文章
 * [面试官看你github上的哪些东西](http://segmentfault.com/q/1010000000725223)
