@@ -17,6 +17,7 @@
 * [最完整的面试经历](http://chuansong.me/n/290160)
 ## 面经
 * [Cracking the Coding Interview 4th Edition](books/cc150.pdf)
+* [剑指offer 纪念版](books/bladeoffer.pdf)
  
 ----------
 # 一些有用的网站
