@@ -30,6 +30,7 @@
 * 招聘信息放在jobs目录
 * 笔试方面的信息放在test目录
 * 面试方面的信息放在interview目录
+* 书籍放在books目录
 
 # 新增功能
 * Music
