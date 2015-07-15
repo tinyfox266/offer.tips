@@ -1,5 +1,7 @@
 # 招聘信息
 * [阿里巴巴集团技术保障部2016校园招聘内推](jobs/alipre2016.html)
+* [阿里巴巴集团2016校园招聘开始啦](https://campus.alibaba.com/noticeDetail.htm?code=tmsItemData1)
+* 
 
 ---------
 
@@ -9,6 +11,7 @@
 * [程序员编程艺术](http://blog.csdn.net/v_JULY_v/article/details/6460494)
 * [hihocoder](http://www.hihocoder.com/)
 * [Introduction to Algorithm 3rd Edition](books/intro_algo.pdf)
+* [动态规划：从新手到专家](http://www.360doc.com/content/13/0601/00/8076359_289597587.shtml)
 
 ----------
  
