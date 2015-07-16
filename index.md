@@ -1,17 +1,21 @@
 # 招聘信息
 * [阿里巴巴集团技术保障部2016校园招聘内推](jobs/alipre2016.html)
 * [阿里巴巴集团2016校园招聘开始啦](https://campus.alibaba.com/noticeDetail.htm?code=tmsItemData1)
-* 
 
 ---------
 
 # 笔试准备
 ## 算法 
+### 刷题
 * [leetcode](test/leetcode.html)
 * [程序员编程艺术](http://blog.csdn.net/v_JULY_v/article/details/6460494)
 * [hihocoder](http://www.hihocoder.com/)
+### 书籍
 * [Introduction to Algorithm 3rd Edition](books/intro_algo.pdf)
+
+### 一些文章
 * [动态规划：从新手到专家](http://www.360doc.com/content/13/0601/00/8076359_289597587.shtml)
+* [【串和序列处理 5】总结---自动机，KMP算法，Extend-KMP，后缀树，后缀数组，trie树，trie图及其应用](http://blog.csdn.net/zhujunwsk/article/details/7189895)
 
 ----------
  
