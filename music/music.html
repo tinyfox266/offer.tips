@@ -3,7 +3,7 @@
     <meta http-equiv=Content-Type  content="text/html; charset=utf8">
     <link type="text/css" href="skin/pink.flag/css/jplayer.pink.flag.css" rel="stylesheet" />
     <link type="text/css" href="stylesheets/myplayer.css" rel="stylesheet" />
-    <script type="text/javascript" src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+    <script type="text/javascript" src="js/jquery.min.js"></script>
     <script type="text/javascript" src="js/jquery.jplayer.min.js"></script>
     <script type="text/javascript" src="js/jplayer.playlist.min.js"></script>
   <script type="text/javascript">
@@ -28,9 +28,20 @@
       });
       var playlist;
       var cssSelector = {jPlayer: "#jquery_jplayer_1", cssSelectorAncestor: "#jp_container_1"};
-      jQuery.getJSON("playlist.json", function(data){
-            playlist = data; 
-              });
+      <!--jQuery.getJSON("http://ssg.ustcsz.edu.cn/~zzp/playlist.json",
+              <!--function(data){-->
+              <!--playlist = data; -->
+              <!--});-->
+          $.ajaxSettings.async = false;
+        $.ajax({ 
+            url:"http://ssg.ustcsz.edu.cn/~zzp/playlist.json", 
+            type:'GET', 
+            dataType:'JSONP', 
+            success: function(data){ 
+                alert("hello");
+            } 
+        }); 
+      
 
       var options = {
             swfPath: "js",
