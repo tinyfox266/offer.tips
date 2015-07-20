@@ -82,5 +82,16 @@ happy to work with him on a future project .
 
 当觉得题目的条件、要求不够明确的时候，我们一定要多提问以消除自己的疑惑。
 
+## 一个在面试中能拿高分的思路
+问题：求凸包。
+
+思路:
+* 问清楚：什么点集？有哪些限制？点如何表示的？ 
+* 问清楚：凸包是什么意思？什么是正确的凸包？ 
+* 提出简单的思路 
+* 写出程序 
+* 优化一下 
+
+
 [^CC150]: Cracking the Coding Interview 4th Edition.
 [^offerblade]: 剑指offer,名企面试官精讲典型编程题, 何海涛著.
