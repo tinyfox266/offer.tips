@@ -1,16 +1,19 @@
 # Behavioral Preparation[^CC150] 
 ## What questions should you ask the interviewer?
 **Genuine Questions**: 
+
 * How much of your day do you spend coding?
 * How many meetings do you have every week?
 * What is the ratio of testers to developers to product managers?  What is the interac -tion like?  How does project planning happen on the team?
 
 **Insightful Questions**:
+
 * I noticed that you use technology X.  How do you handle problem Y?
 * Why did the product choose to use the X protocol over the Y protocol?  I know it has 
 bene!ts like A, B, C, but many companies choose not to use it because of issue D .
 
 **Passion Questions**
+
 * I'm very interested in scalability.  Did you come in with a background in this, or what 
 opportunities are there to learn about it? 
 * I'm not familiar with technology X, but it sounds like a very interesting solution .  
@@ -86,6 +89,7 @@ happy to work with him on a future project .
 问题：求凸包。
 
 思路:
+
 * 问清楚：什么点集？有哪些限制？点如何表示的？ 
 * 问清楚：凸包是什么意思？什么是正确的凸包？ 
 * 提出简单的思路 
@@ -94,4 +98,5 @@ happy to work with him on a future project .
 
 
 [^CC150]: Cracking the Coding Interview 4th Edition.
+
 [^offerblade]: 剑指offer,名企面试官精讲典型编程题, 何海涛著.
