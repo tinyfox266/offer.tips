@@ -13,9 +13,10 @@
 ### 书籍
 * [Introduction to Algorithm 3rd Edition](books/intro_algo.pdf)
 
-### 一些文章
+### 算法讲解
 * [动态规划：从新手到专家](http://www.360doc.com/content/13/0601/00/8076359_289597587.shtml)
 * [【串和序列处理 5】总结---自动机，KMP算法，Extend-KMP，后缀树，后缀数组，trie树，trie图及其应用](http://blog.csdn.net/zhujunwsk/article/details/7189895)
+* [Leaning Left Red-Black Tree](books/RedBlack.pdf)
 
 ----------
  
