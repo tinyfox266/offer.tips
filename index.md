@@ -26,6 +26,7 @@
 ## 面经
 * [Cracking the Coding Interview 4th Edition](books/cc150.pdf)
 * [剑指offer 纪念版](books/bladeoffer.pdf)
+* [50道程序员电面题目](books/top50_phone.pdf)
  
 ----------
 # 一些有用的网站
