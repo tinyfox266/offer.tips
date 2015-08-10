@@ -7,6 +7,12 @@
 [北美公司内推](http://www.mitbbs.com/article_t2/JobHunting/32889697.html)(需要翻墙)
 
 --------
+# 简历
+* [如何写好技术简历 —— 实例、模板及工具](http://get.jobdeer.com/744.get)
+* [简单好用的在线MarkDown简历工具](http://cvbox.sinaapp.com/)
+* [yaunbin的latex简历模板](https://github.com/billryan/resume)
+
+----------
 
 # 笔试准备
 ## 算法 
