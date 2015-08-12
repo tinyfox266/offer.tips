@@ -55,5 +55,13 @@
  
 ----------
 
+# 各个公司情况
+* [腾讯的职级系统](http://get.jobdeer.com/393.get)
+* [腾讯的晋升体系是怎么样的？-知乎](http://www.zhihu.com/question/20295934/answer/28653186)
+* [BAT等公司层级对应及薪资](images/wage.jpg)
+* [百度、腾讯和阿里内部的级别和薪资待遇是什么样的？](http://www.zhihu.com/question/27108669)
+
+--------
+
 # 过期的招聘信息
 
