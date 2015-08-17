@@ -1,6 +1,8 @@
 # 招聘信息
 * [阿里巴巴集团技术保障部2016校园招聘内推](jobs/alipre2016.html)
 * [阿里巴巴集团2016校园招聘开始啦](https://campus.alibaba.com/noticeDetail.htm?code=tmsItemData1)
+* [腾讯2016校招流程&FAQ](http://join.qq.com/faq.php)
+* [腾讯2016校招宣讲安排](http://join.qq.com/preach.php)
 
 ---------
 # 内推
